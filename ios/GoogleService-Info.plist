@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>769340572595-gtu0ite618vqs45d9cdvn1is39kv1s8n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.769340572595-gtu0ite618vqs45d9cdvn1is39kv1s8n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCic6Cs9paG0sYUvVc_mEoIpXuJ8KGe5kg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>769340572595</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.millioncats.wisecat</string>
+	<key>PROJECT_ID</key>
+	<string>adviser-2ec41</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adviser-2ec41.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:769340572595:ios:3d09834376dd82743601c6</string>
+	<key>DATABASE_URL</key>
+	<string>https://adviser-2ec41.firebaseio.com</string>
+</dict>
+</plist>

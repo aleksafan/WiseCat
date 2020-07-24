@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769340572595",
+    "firebase_url": "https://adviser-2ec41.firebaseio.com",
+    "project_id": "adviser-2ec41",
+    "storage_bucket": "adviser-2ec41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769340572595:android:3f012a783ae597073601c6",
+        "android_client_info": {
+          "package_name": "com.millioncats.adviser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769340572595-cbeil5injqcppodvmp2r4u6fgms595lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALY8YmELn4bAQVq2NRdphBad2boMF4es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769340572595-cbeil5injqcppodvmp2r4u6fgms595lo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769340572595-gtu0ite618vqs45d9cdvn1is39kv1s8n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.millioncats.wisecat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
