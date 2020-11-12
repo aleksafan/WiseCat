@@ -1,6 +1,6 @@
-# adviser
+# Wise Cat
 
-A new Flutter project.
+A simple Android app which mockly answers to the questions
 
 ## Getting Started
 
