@@ -1,6 +1,7 @@
 # Wise Cat
 
 A simple Android app which mockly answers to the questions
+Link: https://play.google.com/store/apps/details?id=com.millioncats.adviser 
 
 ## Getting Started
 
